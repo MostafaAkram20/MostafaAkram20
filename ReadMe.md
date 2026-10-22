@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 # Hi, I'm Mostafa Akram<br><br>💻 **Computer Science Student @ Benha University**<br>🚀 **Full-Stack Developer | MERN / MEAN Stack**<br><br>I'm a Computer Science student passionate about building **web applications** and solving problems through code.<br><br>### 👨‍💻 About Me<br><br>* 🔹 Frontend: **React.js, JavaScript, HTML, CSS, Tailwind CSS**<br>* 🔹 Backend: **Node.js, Express.js**<br>* 🔹 Databases: **MongoDB, MySQL**<br>* 🔹 Currently improving my **Backend & Full-Stack development** skills<br>* 🔹 **Vice Head Backend @ GDG On Campus Benha**<br>* 🔹 **NTI MEAN Stack Trainee**<br>* 🔹 Interested in **Software Engineering, APIs, and Problem Solving**<br><br>### 🛠️ Tech Stack<br><br>**JavaScript • React • Node.js • Express.js • MongoDB • MySQL • Git • GitHub**<br><br>> Always learning, building, and improving 🚀<br>
 
 
